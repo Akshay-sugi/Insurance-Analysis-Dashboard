@@ -310,6 +310,12 @@ The Excel workbook (`Insurance_Analytics_Project.xlsm`) contains **16 sheets** i
 The Power BI file (`New_Insurance_Analytics.pbix`) delivers a fully interactive insurance analytics report with dynamic slicers and drill-through capabilities.
 
 **KPI Header Metrics:**
+<p align="center">
+  <img src="https://github.com/Akshay-sugi/Insurance-Analysis-Dashboard/blob/main/Power%20Bi%20Insurance%20Policy%20Dashboard%20Screenshot.jpg?raw=true" width="1000"/>
+</p>
+<p align="center">
+  <img src="https://github.com/Akshay-sugi/Insurance-Analysis-Dashboard/blob/main/Power%20Bi%20Insurance%20Branch%20Dashboard%20Screenshot.jpg?raw=true" width="1000"/>
+</p>
 
 | Total Policies | Total Customers | Total Claim Amount | Total Premium | Expiring This Year | Avg Premium |
 |:-:|:-:|:-:|:-:|:-:|:-:|

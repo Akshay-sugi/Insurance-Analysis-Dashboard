@@ -337,7 +337,9 @@ The Power BI file (`New_Insurance_Analytics.pbix`) delivers a fully interactive 
 The Tableau packaged workbook (`New_Insurancy_Analytics_Dashboard.twbx`) includes embedded data — no additional data connection is required.
 
 ### Insurance Policy View
-
+<p align="center">
+  <img src="https://github.com/Akshay-sugi/Insurance-Analysis-Dashboard/blob/main/Tableau%20Insurance%20Branch%20Dashboard%20Screenshot.jpg" width="1000"/>
+</p>
 | Visual | Insight |
 |--------|---------|
 | Age Bucket Policy Distribution | 36–50 age group typically holds the highest policy count |

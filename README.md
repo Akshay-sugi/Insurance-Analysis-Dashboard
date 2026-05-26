@@ -279,7 +279,9 @@ GROUP BY account_executive;
 The Excel workbook (`Insurance_Analytics_Project.xlsm`) contains **16 sheets** including raw data, pivot analysis, and two interactive dashboards.
 
 **Insurance Dashboard** — Policy-level analysis with filters for Policy Type, Status, Gender, and Year.
-
+<p align="center">
+  <img src="https://github.com/Akshay-sugi/Insurance-Analysis-Dashboard/blob/main/Excel%20Insurance%20Branch%20Analytics%20Dashboard%20Screenshot.png?raw=true" width="1000"/>
+</p>
 | Visual | Type | Description |
 |--------|------|-------------|
 | KPI Cards | Metric tiles | Total Policies · Total Customers · Total Claims · Expiring This Year |
